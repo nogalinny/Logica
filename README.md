@@ -1,2 +1,3 @@
 # Lógica
- Lógica de programação em python
+Lógica de programação em python
+Calculadora em python
